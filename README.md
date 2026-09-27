@@ -1,7 +1,7 @@
 # Kerim
 
 ## About me
-I'm currently 18 years old and I mostly do game development, I don't really have anything else to say but I also occasionally do Web-development
+I'm currently 18 years old and I mostly do game development and sometimes web-development. That's all I have to say
 # Knowledge and used Technology
 ## Markdown languages
 * HTML <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/refs/heads/main/social%20icons/html5.svg" width=40 height = 40 style="transform: translateY(15px)">
